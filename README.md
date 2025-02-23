@@ -1,12 +1,12 @@
-# Time-Series Lab 📊
+# Time-Series Lab 📊  
 
-Um repositório dedicado a estudos, algoritmos e experimentos com séries temporais.
+A repository dedicated to time series studies, algorithms, and experiments.  
 
-## 🚀 Introdução
+## 🚀 Introduction  
 
-O **Time-Series Lab** é um laboratório de estudos sobre séries temporais, cobrindo desde conceitos básicos até técnicas avançadas, como modelagem estatística, aprendizado de máquina e deep learning aplicado.
+**Time-Series Lab** is a research-focused repository covering fundamental to advanced topics in time series analysis, including statistical modeling, machine learning, and deep learning applications.  
 
-## 📂 Estrutura do Repositório
+## 📂 Repository Structure  
 
 ```
 time-series-lab/
@@ -18,7 +18,7 @@ time-series-lab/
 
 ## 📦 Instalação
 
-Para começar, clone o repositório e instale as dependências:
+To get started, clone the repository and install the dependencies:  
 
 ```bash
 git clone https://github.com/seu-usuario/time-series-lab.git
